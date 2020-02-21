@@ -1,7 +1,6 @@
 # Algorithm_in_cpp
 
 This repository conrains several algorithm problems.
-____
 
 **1. EE2331 Data Structure and Algorithm (CityU HK yr.2020 Spring term, [link](https://www.cityu.edu.hk/catalogue/ug/201415/course/EE2331.htm))**
   - [loop-array](/loop_array/EE2331_tut_wk3.cpp): Tutorial assignment wk3, last edit on 2020/2/20 
