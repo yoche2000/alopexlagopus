@@ -1,0 +1,9 @@
+﻿  tutorial_6.cpp
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure and algorithms\tutorials\tut-06\tutorial_6.cpp(76): warning C4018: '<': signed/unsigned mismatch
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure and algorithms\tutorials\tut-06\tutorial_6.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure and algorithms\tutorials\tut-06\tutorial_6.cpp(104): warning C4018: '<=': signed/unsigned mismatch
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure and algorithms\tutorials\tut-06\tutorial_6.cpp(108): error C2663: 'std::vector<unsigned int,std::allocator<_Ty>>::erase': 2 overloads have no legal conversion for 'this' pointer
+          with
+          [
+              _Ty=unsigned int
+          ]

@@ -1,0 +1,4 @@
+Students need to have basic knowledge in EE2331 Data
+Structures and Algorithms to study EE3206 Java
+Programming and Applications. Electrical Engineering.
+AA	PP test_ing.

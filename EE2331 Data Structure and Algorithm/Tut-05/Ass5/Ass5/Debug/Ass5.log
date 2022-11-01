@@ -1,0 +1,5 @@
+﻿  tutorial_5.cpp
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tut-05\tutorial_5.cpp(128): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tut-05\tutorial_5.cpp(70): warning C4715: 'comparedob': not all control paths return a value
+d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tut-05\tutorial_5.cpp(79): warning C4715: 'comparesallary': not all control paths return a value
+  Ass5.vcxproj -> D:\Documents\Academic - CityU\Courses\Y2-B\EE2331 Data Structure anf Algorithms\tutorials\Tut-05\Ass5\Debug\Ass5.exe

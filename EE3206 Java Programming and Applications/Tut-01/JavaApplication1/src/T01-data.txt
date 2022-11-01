@@ -1,0 +1,3 @@
+Students need to have basic knowledge in EE2331 Data
+Structures and Algorithms to take EE3206 Java
+Programming and Applications.
