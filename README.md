@@ -1,7 +1,7 @@
-# Algorithm_in_cpp
+# alopexlagopus
+A collection of programming coursework from assignments and course projects. 
 
-This repository conrains several algorithm problems.
-
+##C++
 **1. EE2331 Data Structure and Algorithm (CityU HK yr.2020 Spring term, [link](https://www.cityu.edu.hk/catalogue/ug/201415/course/EE2331.htm))**
   - [loop-array](/loop_array/EE2331_tut_wk3.cpp): Array operation, tutorial assignment wk4, last edit on 2020/2/20 
   - [client_analysis](/lient_analysis/tutorial_4.cpp): tutorial assignment wk5, last edit on 2020/2/27 
@@ -12,3 +12,5 @@ This repository conrains several algorithm problems.
 **3. CityU Dept.EE ACM Training**
   - [molar_mass](/ASM_Training_2019/molar_mass.cpp): UVa11496, molar mass counter
   - [musical loop](/ASM_Training_2019/musical_loop.cpp): UVa11496, musical loop
+##Python
+##Java
