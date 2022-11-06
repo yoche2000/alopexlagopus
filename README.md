@@ -1,5 +1,5 @@
-# alopex Index
-A collection of programs written by yoche2000. Some of these are assignments and projects, some of them are self initiated projects that lack a structure to become an indivicual github projects
+# Alopexlagopus Index
+This repository is a collection of programs and codes written by yoche2000. Some are assignments and projects from courses, and some are self-initiated projects that lack a structure to become an indivicual github projects.
 
 ## Coursework - City University of Hong Kong
 * C2311 Introduction to Programming (C++) | [Course Information](https://www.cityu.edu.hk/catalogue/ug/201415/course/CS2311.htm) | [Repo](./CityU%20CS2311%20Introduction%20to%20Programming)
@@ -15,6 +15,8 @@ A collection of programs written by yoche2000. Some of these are assignments and
 * EE4096 Engineering Training (python) | [Course Information](https://www.cityu.edu.hk/catalogue/ug/201920/course/EE4096.htm) | [Repo](./CityU%20EE4096%20Engineering%20Training) 
 
 * EE4213 Human Computer Interaction (python) | [Course Information](https://www.cityu.edu.hk/catalogue/ug/201920/course/EE4213.htm) | [Repo](./CityU%20EE4213%20Human%20Computer%20Interaction) 
+
+* EE4316 Mobile Data Network (Matlab) | [Course Information](https://www.cityu.edu.hk/catalogue/ug/201920/course/EE4316.htm) | [Repo](./CityU%20EE4316%20Mobile%20Data%20Network) 
 
 * CityU Learning Coding and AI (python) | Course Information | [Repo](./CityU%20Learning%20Coding%20and%20AI) 
 
@@ -32,9 +34,4 @@ A collection of programs written by yoche2000. Some of these are assignments and
 * PTT Coding Projects 
 	* [PTT Automation](./PTT%20Coding%20Projects/PTT%20Automation) (python) | Some automation scripts for the BBS forum [ptt.cc](https://term.ptt.cc)
 	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python) | As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was incharge of the forum's anniversary event. The scripts were for score-board keeping.
-
-
-
-
-
 

@@ -1,3 +1,0 @@
-﻿  tutorial_4.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6006: "link.exe" exited with code 1168.
-LINK : fatal error LNK1168: cannot open D:\Documents\Academic - CityU\Courses\Y2-B\EE2331 Data Structure anf Algorithms\tutorials\Tut-04\tut4 project\x64\Debug\tut4 project.exe for writing

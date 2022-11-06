@@ -1,5 +1,0 @@
-﻿  Source.cpp
-d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tutorial\tut-03\q2 test\q2 test\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tutorial\tut-03\q2 test\q2 test\source.cpp(12): warning C4101: 'temp': unreferenced local variable
-d:\documents\academic - cityu\courses\y2-b\ee2331 data structure anf algorithms\tutorials\tutorial\tut-03\q2 test\q2 test\source.cpp(14): warning C4700: uninitialized local variable 'i' used
-  q2 test.vcxproj -> D:\Documents\Academic - CityU\Courses\Y2-B\EE2331 Data Structure anf Algorithms\Tutorials\Tutorial\Tut-03\q2 test\Debug\q2 test.exe
