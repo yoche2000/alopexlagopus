@@ -33,5 +33,5 @@ This repository is a collection of programs and codes written by yoche2000. Some
  
 * PTT Coding Projects 
 	* [PTT Automation](./PTT%20Coding%20Projects/PTT%20Automation) (python) | Some automation scripts for the BBS forum [ptt.cc](https://term.ptt.cc)
-	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python) | As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was incharge of the forum's anniversary event. The scripts were for score-board keeping.
-
+	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python) | As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was in charge of the forum's [25th anniversary event](https://www.ptt.cc/bbs/PTT25_Game/index.html). The scripts were written for automatic score keeping. ![image](https://i.imgur.com/DQS2wEQ.jpg)
+	* 

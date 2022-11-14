@@ -10,3 +10,4 @@
 * The number of threads being created is “*get_nprocs()*-1”, which lead to a total of *get_nprocs()* with the main thread that equals to the core number of the computer it is running on, which is expected to enhance the efficiency as much as possible.
 * **Result**: Our compressor was ranked top 3 in terms of performance in a class of more than a hundred. The project was graded 99/100 eventually.
 
+![screenshot](https://i.imgur.com/QPAMXEF.jpg)
