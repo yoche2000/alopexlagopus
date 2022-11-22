@@ -25,13 +25,15 @@ This repository is a collection of programs and codes written by yoche2000. Some
 
 ## Coursework - Yonsei University 
 
-* CSI4109 Information Security (python) | Course Information | [Repo](./Yonsei%20CSI4109%20Information%20Security) 
-* EE3548 Introduction to Bio Engineering | Course Information | [Repo](./Yonsei%20EEE3548%20Introduction%20to%20Bio%20Engineering) 
+* CSI4109 Information Security (python/C++) | [Course Information](https://cs.yonsei.ac.kr:59290/eng/eng3_1_a.php?ckattempt=1) | [Repo](./Yonsei%20CSI4109%20Information%20Security) 
+* EE3548 Introduction to Bio Engineering (python) | [Course Information](https://ee.yonsei.ac.kr/ee_en/education/under_course02.do) | [Repo](./Yonsei%20EEE3548%20Introduction%20to%20Bio%20Engineering) 
 
 
 ## Initiatives
  
 * PTT Coding Projects 
-	* [PTT Automation](./PTT%20Coding%20Projects/PTT%20Automation) (python) | Some automation scripts for the BBS forum [ptt.cc](https://term.ptt.cc)
-	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python) | As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was in charge of the forum's [25th anniversary event](https://www.ptt.cc/bbs/PTT25_Game/index.html). The scripts were written for automatic score keeping. ![image](https://i.imgur.com/DQS2wEQ.jpg)
+	* [PTT Automation](./PTT%20Coding%20Projects/PTT%20Automation) (python): Some automation scripts for the BBS forum [ptt.cc](https://term.ptt.cc), for personal use. Functions include:
+		- Making transaction, sending p-coins to other accounts
+		- Auto checking the petition result
+	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python): As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was in charge of the forum's [25th anniversary event](https://www.ptt.cc/bbs/PTT25_Game/index.html). The scripts were written for automatic score keeping. ![image](https://i.imgur.com/DQS2wEQ.jpg)
 	* 
