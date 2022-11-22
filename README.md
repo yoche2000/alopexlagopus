@@ -1,7 +1,7 @@
 # Alopexlagopus Index
-This repository is a collection of programs and codes written by yoche2000. Some are assignments and projects from courses, and some are self-initiated projects that lack a structure to become an indivicual github projects.
+This repository is a collection of programs and codes written by u/yoche2000. Some are assignments and projects from courses, and some are self-initiated projects that lack a structure to become an individual Github projects.
 
-## Coursework - City University of Hong Kong
+## Coursework - [City University of Hong Kong](https://www.cityu.edu.hk/)
 * C2311 Introduction to Programming (C++) | [Course Information](https://www.cityu.edu.hk/catalogue/ug/201415/course/CS2311.htm) | [Repo](./CityU%20CS2311%20Introduction%20to%20Programming)
  
 * CS3103 Operating System (C) | [Course Information](http://www.cityu.edu.hk/catalogue/ug/201617/course/CS3103.htm) | [Repo](./CityU%20CS3103%20Operating%20System) 
@@ -23,7 +23,7 @@ This repository is a collection of programs and codes written by yoche2000. Some
 * CityU Programming Competitions (C++) | [Repo](./CityU%20Programming%20Competitions)
 
 
-## Coursework - Yonsei University 
+## Coursework - [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
 
 * CSI4109 Information Security (python/C++) | [Course Information](https://cs.yonsei.ac.kr:59290/eng/eng3_1_a.php?ckattempt=1) | [Repo](./Yonsei%20CSI4109%20Information%20Security) 
 * EE3548 Introduction to Bio Engineering (python) | [Course Information](https://ee.yonsei.ac.kr/ee_en/education/under_course02.do) | [Repo](./Yonsei%20EEE3548%20Introduction%20to%20Bio%20Engineering) 
@@ -35,5 +35,6 @@ This repository is a collection of programs and codes written by yoche2000. Some
 	* [PTT Automation](./PTT%20Coding%20Projects/PTT%20Automation) (python): Some automation scripts for the BBS forum [ptt.cc](https://term.ptt.cc), for personal use. Functions include:
 		- Making transaction, sending p-coins to other accounts
 		- Auto checking the petition result
-	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python): As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was in charge of the forum's [25th anniversary event](https://www.ptt.cc/bbs/PTT25_Game/index.html). The scripts were written for automatic score keeping. ![image](https://i.imgur.com/DQS2wEQ.jpg)
-	* 
+	* [PTT25 Anniv Automation Game](./PTT%20Coding%20Projects/PTT25%20Anniv%20Orientation%20Game) (python): As a staff of the BBS forum [ptt.cc](https://term.ptt.cc), yoche2000 was in charge of the forum's [25th Anniversary Event](https://www.ptt.cc/bbs/PTT25_Game/index.html). The scripts were written for automatic score keeping. 
+	
+	![image](https://i.imgur.com/DQS2wEQ.jpg)
